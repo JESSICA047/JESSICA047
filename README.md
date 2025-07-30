@@ -1,25 +1,77 @@
-👋 Hi, I'm Jessica!
+# 👋 Hey, I'm Jessica — Data Scientist in the Making
 
-I'm a budding data scientist and computer science student (graduating August 2026) passionate about using data for social impact, especially in population health analytics in Ghana. I love turning insights into actionable solutions and building connections through tech communities like Node Eight.
+🧬➡️📊 **From molecules to machine learning**  
+Started as a Biochemistry & Molecular Biology student, now I'm building my way into **data science, AI, and tech for social impact**. I believe the best insights come from asking better questions.
 
-🔍 What I Do
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
 
-Data Science & Analytics: Exploring Python to analyze datasets and create meaningful visualizations for health and social impact.
-Community Engagement: Organizing events like Node Eight’s Last Friday Hangout to foster tech connections in Ghana.
-Content Creation: Sharing my journey in data literacy and tech on LinkedIn and Medium with a focus on authenticity and impact.
+---
 
-🚀 Projects
+## 🚀 Currently Building
+- 🇬🇭 **Innovation Hub MEL Team** — Measuring impact for Ghana's national service program
+- 🛠️ **Eight Fellow (Cohort 2)** — Developing AI-powered travel experiences to showcase the Volta Region
+- 🎓 **Computer Science Online** — Bridging the gap between domain expertise and technical mastery
+- 📊 **Personal Data Projects** — Turning curiosity into code, one dataset at a time
 
-Roadmap Tracker: Developing a SaaS prototype for customizable data science learning paths using Flask/Django.
-Sorting Algorithms: Implemented quicksort in Java for efficient array sorting with exchange tracking (check my repos!).
-Health Data Insights: Working on analytics projects to support population health consultancy in Ghana.
+---
 
-🌱 Currently Learning
+## 🛠️ My Arsenal
 
-Advancing my Python skills for machine learning and data visualization.
-Exploring consultancy opportunities in Ghana’s health sector to combine my love for feedback and data.
+**Languages & Data**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
-📫 Let’s Connect!
-LinkedIn for data literacy posts and networking.
-Medium for my blogs on data science and social impact.
-Reach out to collaborate on projects or chat about tech in Ghana!
+**Tools & Platforms**  
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-0078d7?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+
+**Learning Stack**  
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+
+---
+
+## 📈 GitHub Analytics
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Jessica&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jessica&layout=compact&langs_count=8&theme=tokyonight"/>
+</div>
+
+<!-- <div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jessica&theme=tokyonight" alt="GitHub Streak"/>
+</div> -->
+
+---
+
+## 🌱 Philosophy & Drive
+
+> *"Data without context is just noise. Context without action is just conversation."*
+
+I'm driven by the intersection of **scientific rigor** and **social impact**. My biochemistry background taught me how to ask precise questions; data science is teaching me how to find scalable answers.
+
+**What motivates me:**
+- 🎯 Using data to solve real-world problems in underserved communities
+- 🧠 Bridging the gap between domain expertise and technical implementation  
+- 🌍 Building technology that amplifies human potential, especially in Africa
+- 📖 Learning in public and sharing knowledge along the way
+
+---
+
+## 📫 Let's Connect
+I'm always excited to collaborate on projects that combine **data, impact, and innovation**. Whether you're working on social good initiatives, need a fresh perspective on data problems, or just want to chat about the intersection of science and tech — let's build something meaningful together.
+
+**Currently open to:** Data science internships, research collaborations, and mentorship opportunities
+
+<div align="center">
+  
+[![Profile Views](https://komarev.com/ghpvc/?username=YOURUSERNAME&color=blueviolet&style=for-the-badge)](https://github.com/YOURUSERNAME)
+
+*Built with 💜 in Accra, Ghana*
+
+</div>
