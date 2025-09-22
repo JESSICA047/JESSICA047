@@ -1,6 +1,5 @@
 # 👋 Hey, I'm Jessica — Data Scientist in the Making
-
-🧬➡️📊 **From molecules to machine learning**  
+  
 Started as a Biochemistry & Molecular Biology student, now I'm building my way into **data science, AI, and tech for social impact**. I believe the best insights come from asking better questions.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
@@ -10,11 +9,9 @@ Started as a Biochemistry & Molecular Biology student, now I'm building my way i
 ---
 
 ## 🚀 Currently Building
-- 🇬🇭 **Innovation Hub MEL Team** — Measuring impact for Ghana's national service program
-- 🛠️ **Eight Fellow (Cohort 2)** — Developing AI-powered travel experiences to showcase the Volta Region
-- 🎓 **Computer Science Online** — Bridging the gap between domain expertise and technical mastery
-- 📊 **Personal Data Projects** — Turning curiosity into code, one dataset at a time
-
+- 🇬🇭 **Innovation Hub MEL Team**
+- 🎓 **Computer Science Online** 
+- 📊 **Personal Data Projects**
 ---
 
 ## 🛠️ My Arsenal
@@ -29,23 +26,6 @@ Started as a Biochemistry & Molecular Biology student, now I'm building my way i
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-0078d7?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
-
-**Learning Stack**  
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-
----
-
-## 📈 GitHub Analytics
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Jessica&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jessica&layout=compact&langs_count=8&theme=tokyonight"/>
-</div>
-
-<!-- <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jessica&theme=tokyonight" alt="GitHub Streak"/>
-</div> -->
 
 ---
 
