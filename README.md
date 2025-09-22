@@ -25,7 +25,7 @@ Started as a Biochemistry & Molecular Biology student, now I'm building my way i
 
 > *"Data without context is just noise. Context without action is just conversation."*
 
-<div style: align center/>
+<div style= align center/>
 
 
 *Built with 💜 in Accra, Ghana*
